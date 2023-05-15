@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "AbemaTV Test Extension",
+  "version": "1.0",
+  "description": "Adds 'Test' text to a specific AbemaTV page.",
+  "permissions": [
+    "activeTab",
+    "https://*.abema.tv/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://abema.tv/now-on-air/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}
