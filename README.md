@@ -26,10 +26,10 @@ This Chrome extension enhances your football viewing experience on AbemaTV. It p
 
 While the current version of the SuperSpectator Football Edition extension is specifically designed for AbemaTV, we aim to make future versions compatible with other popular sports streaming services, including DAZN, SPOTV, and ESPN. Stay tuned for updates!
 
-- [] AbemaTV
-- [] DAZN
-- [] SPOTV
-- [] ESPN
+- [ ] AbemaTV
+- [ ] DAZN
+- [ ] SPOTV
+- [ ] ESPN
 
 ### License
 
